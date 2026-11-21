@@ -6,7 +6,7 @@ Each piece there tells the story of one thing I built: the problem, the choices 
 
 ## Pieces
 
-- [How I built DMV Signal](https://nico-tek.com/open-forum/dmv-signal): a live map of permits, zoning cases and property sales across six DC-area jurisdictions.
+- [How I built DMV Signal](https://nico-tek.com/open-forum/dmv-signal): a live map of permits, zoning cases and property sales across six DC-area jurisdictions. [Discuss it](https://github.com/nicowave/open-forum/discussions/1).
 
 ## Taking part
 
